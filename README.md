@@ -1,7 +1,7 @@
-<h1 align="center">Assalamualaikum, I'm Weyniis 👋</h1>
+<h1 align="center">Assalamualaikum, I'm Is 👋</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/KBHM737DrWgA8K6kos.webp" width="380" alt="Coding GIF">
+  <img src="https://i.gifer.com/8NQX.gif" width="380" alt="Coding GIF">
 </p>
 
 <p align="center">
@@ -38,15 +38,13 @@ const weyniis = {
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/yourdiscord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💡 Fun Fact
-> I don’t always write code, but when I do... it works on the second try 😏
+> I don’t always write code, but when I do and take a action... it makes damage more than it has 😬🤣
 
 ---
 
