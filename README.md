@@ -36,15 +36,6 @@ const weyniis = {
 
 ---
 
-## ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weyniis&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weyniis&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 <p align="center">
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
