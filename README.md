@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" width="600" />
+  <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" width="480" />
 </p>
 
 ---
